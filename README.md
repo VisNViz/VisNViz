@@ -1,4 +1,4 @@
-# VnV(Visioj & Visualization)
+# VnV(Vision & Visualization)
 
 There is no day or night for us who combine computer vision research with beautiful visualization.
 
