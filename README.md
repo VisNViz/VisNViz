@@ -1,10 +1,10 @@
-# VnV(Visioj & Visualization)
+# VnV(Vision & Visualization)
 
-There is no day or night for us who combine computer vision research with beautiful visualization.
+We work hard day and night for harmonizing Computer Vision Research with efficient Visualization.
 
-V&V (a.k.a Vision and Visualization) is a group that conducts research on Computer Vision Engineer and Data Visualization Developer, which consists of a few elite groups.
+Our future sees the light. I hope that the light becomes beautiful like a rainbow.
 
-Our future sees light. I hope that light becomes a beautiful light like a rainbow.
+V&V (a.k.a Vision and Visualization) is a group that conducts research into Computer Vision Engineer and Data Visualization Developer consisted a few elite researchers.
 
 ![](res/1.png)
 ![](res/2.png)
